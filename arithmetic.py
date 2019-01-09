@@ -19,10 +19,10 @@ def multiply(num1, num2):
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
 
-
+    return (num1 / num2)
 def square(num1):
     """Return the square of the input."""
-
+    return (num1*num1)
 
 def cube(num1):
     """Return the cube of the input."""
